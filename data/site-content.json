@@ -1,0 +1,162 @@
+{
+  "businessProfile": {
+    "businessName": "Raja Borewells",
+    "ownerName": "Banda Malla Reddy",
+    "phone": "+91XXXXXXXXXX",
+    "whatsapp": "+91XXXXXXXXXX",
+    "email": "",
+    "address": "Hyderabad, Telangana",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "businessHours": "",
+    "experience": "",
+    "latitude": null,
+    "longitude": null,
+    "googleMapsUrl": ""
+  },
+  "estimatorRates": {
+    "ratePerFoot": null,
+    "minimumCharge": 0,
+    "equipmentCharge": 0,
+    "transportCharge": 0,
+    "cleaningCharge": 0,
+    "pumpInstallationCharge": 0
+  },
+  "services": [
+    {
+      "id": "new-borewell-drilling",
+      "name": "New Borewell Drilling",
+      "description": "Professional drilling for new water points on residential, agricultural and commercial plots."
+    },
+    {
+      "id": "residential-borewell",
+      "name": "Residential Borewell Drilling",
+      "description": "Borewell drilling solutions designed for homes, apartments and compact urban plots."
+    },
+    {
+      "id": "agricultural-borewell",
+      "name": "Agricultural Borewell Drilling",
+      "description": "Site-based drilling for farms, fields and irrigation requirements."
+    },
+    {
+      "id": "commercial-borewell",
+      "name": "Commercial Borewell Drilling",
+      "description": "Reliable water access planning for offices, warehouses and commercial developments."
+    },
+    {
+      "id": "deep-borewell",
+      "name": "Deep Borewell Drilling",
+      "description": "Deep drilling for sites with varying geology and water requirement needs."
+    },
+    {
+      "id": "borewell-cleaning",
+      "name": "Borewell Cleaning",
+      "description": "Cleaning and redevelopment support for older or silted borewells."
+    },
+    {
+      "id": "borewell-repair",
+      "name": "Borewell Repair",
+      "description": "Repair assistance for damaged casing, pump issues and system performance concerns."
+    },
+    {
+      "id": "submersible-pump-installation",
+      "name": "Submersible Pump Installation",
+      "description": "Pump fitting and installation for dependable water lifting and usage."
+    },
+    {
+      "id": "borewell-camera-inspection",
+      "name": "Borewell Camera Inspection",
+      "description": "Inspection support to assess borewell condition and identify the right course of action."
+    },
+    {
+      "id": "site-inspection",
+      "name": "Site Inspection / Water Point Consultation",
+      "description": "On-site consultation to understand location, soil conditions and the best drilling approach."
+    }
+  ],
+  "serviceRates": [
+    {
+      "id": "5-inch",
+      "service": "5 Inch Borewell Drilling",
+      "unit": "Per Feet",
+      "startingRate": "Contact for Rate",
+      "details": "Depends on location, soil and rock conditions."
+    },
+    {
+      "id": "6.5-inch",
+      "service": "6.5 Inch Borewell Drilling",
+      "unit": "Per Feet",
+      "startingRate": "Contact for Rate",
+      "details": "Depends on location, soil and rock conditions."
+    },
+    {
+      "id": "borewell-cleaning-rate",
+      "service": "Borewell Cleaning",
+      "unit": "Per Service",
+      "startingRate": "Contact for Rate",
+      "details": "Depends on borewell condition and cleaning requirements."
+    },
+    {
+      "id": "pump-installation-rate",
+      "service": "Pump Installation",
+      "unit": "Per Installation",
+      "startingRate": "Contact for Rate",
+      "details": "Pump specification and site conditions determine the final quotation."
+    }
+  ],
+  "projects": [],
+  "serviceAreas": [],
+  "faqs": [
+    {
+      "id": "faq-cost",
+      "question": "How much does borewell drilling cost?",
+      "answer": "The actual borewell cost depends on location, drilling depth, soil and rock conditions, bore diameter, machinery requirements and other site conditions. Contact us for an accurate quotation."
+    },
+    {
+      "id": "faq-depth",
+      "question": "How deep can you drill?",
+      "answer": "The required drilling depth is determined by site conditions, geology and water requirements. Actual drill depth depends on the ground profile at the location."
+    },
+    {
+      "id": "faq-depth-decided",
+      "question": "How is the borewell depth decided?",
+      "answer": "Depth is decided based on the site assessment, geology, local water conditions discussed during the inspection and project requirements."
+    },
+    {
+      "id": "faq-agri",
+      "question": "Do you provide agricultural borewell drilling?",
+      "answer": "Yes, agricultural borewell drilling services can be discussed based on the land, water needs and site conditions."
+    },
+    {
+      "id": "faq-residential",
+      "question": "Do you provide residential borewell drilling?",
+      "answer": "Yes, residential borewell drilling support is available for homes and residential plots."
+    },
+    {
+      "id": "faq-cleaning",
+      "question": "Do you provide borewell cleaning?",
+      "answer": "Yes, borewell cleaning can be arranged based on the borewell condition and the work required."
+    },
+    {
+      "id": "faq-pump",
+      "question": "Do you install submersible pumps?",
+      "answer": "Yes, submersible pump installation can be provided based on the project requirements and specification."
+    },
+    {
+      "id": "faq-rate",
+      "question": "How can I get a quotation?",
+      "answer": "You can call the owner, send a WhatsApp message or submit the quote request form on the website."
+    },
+    {
+      "id": "faq-areas",
+      "question": "Which areas of Hyderabad do you serve?",
+      "answer": "Service areas may vary by project and location. Contact us to confirm service availability for your area."
+    },
+    {
+      "id": "faq-owner",
+      "question": "Can I contact the owner directly?",
+      "answer": "Yes, the owner can be contacted directly through the call or WhatsApp options available across the website."
+    }
+  ],
+  "reviews": []
+}
